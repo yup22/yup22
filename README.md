@@ -14,9 +14,9 @@
 </div>
 
 ## Projects
-[WorksIn](https://github.com/TheEightJo/worksinFinal)
+[WorksIn](https://github.com/TheEightJo/worksinFinal) -- 의류쇼핑몰 프로젝트
 
-[yupGG](https://github.com/yup22/yupgg)
+[yupGG](https://github.com/yup22/yupgg) -- 리그오브레전드 전적검색 프로젝트
 <!--
 **yup22/yup22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
